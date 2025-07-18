@@ -1,2 +1,1 @@
-<> Code      Issues     Pull requests     ...
-[ Add file ▼ ]  [ Code ▼ ]  [ ⚙ Settings ]
+
